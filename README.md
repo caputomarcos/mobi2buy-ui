@@ -1,8 +1,15 @@
 # mobi2buy/ui 
+
+### Usage
+
+```bash
+docker run --name ui  -p 8002:5005  caputomarcos/mobi2buy-ui:latest
+```
+
 ![mobi2buy](https://raw.githubusercontent.com/caputomarcos/mobi2buy-ui/main/screen.png)
 # TODO
- * Backend communication
- * improve  
+ * Backend Communication delete/get/post
+ * Improve Tiny URLs Session  
  
 ## Build from sources
 
