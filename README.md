@@ -1,5 +1,5 @@
 # mobi2buy/ui 
-![mobi2buy](“/screen.png”)
+![mobi2buy](https://raw.githubusercontent.com/caputomarcos/mobi2buy-ui/main/screen.png)
 # TODO
  * Backend communication
  * improve  
